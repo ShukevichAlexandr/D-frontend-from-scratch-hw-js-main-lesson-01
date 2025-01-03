@@ -7,9 +7,9 @@
 let sum = 0;
 let n = 0;
 while (n < 20){
-    n ++ ; 
-    if (n % 2 == 1)
-    {
-    sum = sum + n;
-    }
+  n ++ ; 
+  if (n % 2 == 1)
+  {
+  sum = sum + n;
+  }
 } 
