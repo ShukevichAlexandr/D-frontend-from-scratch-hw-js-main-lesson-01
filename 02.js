@@ -7,7 +7,7 @@
 
 let factorial = 1;
 let n = 1;
-while (n < 10){
+while (n < 10) {
   n = n + 1
   factorial = factorial * n
   console.log(factorial)
